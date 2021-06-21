@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TimoStander
+- 👀 I’m interested in all IT related news
+- 🌱 I’m currently learning Python
